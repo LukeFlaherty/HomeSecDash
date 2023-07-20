@@ -42,7 +42,7 @@ A database is needed to persist user accounts and to support email sign in. Howe
 
 You **can** skip configuring a database and come back to it later if you want.
 
-For more information about setting up a database, please check out the following links:
+For more information about setting up a database:
 
 - Docs: [next-auth.js.org/adapters/overview](https://next-auth.js.org/adapters/overview)
 
