@@ -93,3 +93,6 @@ ISC
 OAuth is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords.
 
 Make my own DB for Consumer facing processes where you need to persist user info for billing and such
+
+run docker desktop before running npx supabase start for local dev
+-- scratch that, docker is a peice of shit
